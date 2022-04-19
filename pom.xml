@@ -4,15 +4,15 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>io.dataease</groupId>
-    <artifactId>dataease-extenstion-sdk</artifactId>
+    <groupId>io.datains</groupId>
+    <artifactId>datains-extenstion-sdk</artifactId>
     <packaging>pom</packaging>
     <version>1.9.0</version>
     <modules>
-        <module>dataease-plugin-common</module>
-        <module>dataease-plugin-interface</module>
-        <module>dataease-plugin-filter</module>
-        <module>dataease-plugin-view</module>
+        <module>datains-plugin-common</module>
+        <module>datains-plugin-interface</module>
+        <module>datains-plugin-filter</module>
+        <module>datains-plugin-view</module>
     </modules>
 
     <parent>
