@@ -9,7 +9,7 @@ public class PluginChartViewFieldBase implements Serializable {
 
     private String id;
 
-    private String dataeaseName;
+    private String datainsName;
 
     private Integer extField;
 

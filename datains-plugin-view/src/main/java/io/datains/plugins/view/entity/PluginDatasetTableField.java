@@ -11,7 +11,7 @@ public class PluginDatasetTableField implements Serializable {
     private String tableId;
     private String originName;
     private String name;
-    private String dataeaseName;
+    private String datainsName;
     private String groupType;
     private String type;
     private Integer size;
